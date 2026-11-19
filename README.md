@@ -1,3 +1,6 @@
+
+https://politechnikawroclawska-my.sharepoint.com/:p:/g/personal/297122_student_pwr_edu_pl/IQA-iFoI4tS4TL2x8NADyAg8AXCIlpE3MTy50t6lvnw5RrA?e=9B30zO
+
 # Laboratoria Technologie Informacyjne – Microsoft Excel
 
 Repozytorium zawiera materiały, instrukcje oraz ukończone pliki robocze z laboratoriów z arkusza kalkulacyjnego (Microsoft Excel) w ramach przedmiotu **Technologie Informacyjne** (Politechnika Wrocławska, Wydział Zarządzania).
